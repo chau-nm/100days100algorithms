@@ -8,3 +8,6 @@ Binary search
 
 ### DAY 3
 Hashing search
+
+### DAY 4
+Sentinel Linear Search
