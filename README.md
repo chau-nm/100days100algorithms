@@ -11,3 +11,6 @@ Hashing search
 
 ### DAY 4
 Sentinel Linear Search
+
+### DAY 5
+Teranry Search
