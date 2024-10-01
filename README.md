@@ -14,3 +14,6 @@ Sentinel Linear Search
 
 ### DAY 5
 Teranry Search
+
+### DAY 6
+Jump Search
