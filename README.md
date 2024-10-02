@@ -17,3 +17,6 @@ Teranry Search
 
 ### DAY 6
 Jump Search
+
+### DAY 7
+Interpolation Search
