@@ -20,3 +20,6 @@ Jump Search
 
 ### DAY 7
 Interpolation Search
+
+### DAY 8
+Exponential Search
