@@ -23,3 +23,6 @@ Interpolation Search
 
 ### DAY 8
 Exponential Search
+
+### DAY 9
+Fibonacci Search
