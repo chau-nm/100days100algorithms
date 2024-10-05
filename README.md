@@ -26,3 +26,6 @@ Exponential Search
 
 ### DAY 9
 Fibonacci Search
+
+### DAY 10
+Selection Sort
