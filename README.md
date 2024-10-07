@@ -32,3 +32,6 @@ Selection Sort
 
 ### DAY 11
 Bubble Sort
+
+### DAY 12
+Merge Sort
