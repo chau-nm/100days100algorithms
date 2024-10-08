@@ -35,3 +35,6 @@ Bubble Sort
 
 ### DAY 12
 Merge Sort
+
+### DAY 13
+Quick Sort
