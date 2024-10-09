@@ -38,3 +38,6 @@ Merge Sort
 
 ### DAY 13
 Quick Sort
+
+### DAY 14
+Heap Sort
