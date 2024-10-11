@@ -44,3 +44,6 @@ Heap Sort
 
 ### DAY 15
 Heap Sort
+
+### DAY 16
+Counting Sort
